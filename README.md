@@ -1,8 +1,8 @@
-# EDS_[StudentNumber]_[Surname]
+# EDS_TUPM-25-0419_Barte
 ## Engineering Data Systems Pipeline
 **Topic:** HVA-01 — Chiller Plant COP Variance  
 **Pillar:** Pillar 9 — HVAC & Building Systems  
-**Course:** Computer Programming | AY 2026  
+**Course:** BSME 
 **Dataset:** [Chiller Energy Data — Kaggle](https://www.kaggle.com/datasets/chillerenergy/chiller-energy-data)
 
 ---
@@ -81,6 +81,5 @@ python main.py
 
 ## GitHub Repository Name
 ```
-EDS_[YourStudentNumber]_[YourSurname]
+EDS_TUPM-25-0419_Barte
 ```
-Example: `EDS_2021123456_Reyes`
